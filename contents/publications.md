@@ -4,7 +4,7 @@
 
 - Code: [GitHub](https://github.com/TW-NLP/ChineseErrorCorrector)  
 - Stars: ![GitHub Stars](https://img.shields.io/github/stars/TW-NLP/ChineseErrorCorrector?style=flat-square)
-
+- article: ChineseErrorCorrector3-4B: State-of-the-Art Chinese Spelling and Grammar Corrector(https://arxiv.org/abs/2511.17562)
 
 #### Published
 
